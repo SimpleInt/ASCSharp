@@ -1,0 +1,44 @@
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\bin\Release\netcoreapp3.1\ACSharp.exe
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\bin\Release\netcoreapp3.1\ACSharp.deps.json
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\bin\Release\netcoreapp3.1\ACSharp.runtimeconfig.json
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\bin\Release\netcoreapp3.1\ACSharp.runtimeconfig.dev.json
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\bin\Release\netcoreapp3.1\ACSharp.dll
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\bin\Release\netcoreapp3.1\ACSharp.pdb
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.csproj.AssemblyReference.cache
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp_MarkupCompile.cache
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp_MarkupCompile.lref
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\obj\Release\netcoreapp3.1\MainWindow.baml
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.g.resources
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.AssemblyInfoInputs.cache
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.AssemblyInfo.cs
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.csproj.CoreCompileInputs.cache
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.dll
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.pdb
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.genruntimeconfig.cache
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\bin\Release\netcoreapp3.1\ACSharp.dll.manifest
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\bin\Release\netcoreapp3.1\ACSharp.application
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.dll.manifest
+C:\Users\OwOr\Source\Repos\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.application
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\bin\Release\netcoreapp3.1\ACSharp.exe
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\bin\Release\netcoreapp3.1\ACSharp.deps.json
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\bin\Release\netcoreapp3.1\ACSharp.runtimeconfig.json
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\bin\Release\netcoreapp3.1\ACSharp.runtimeconfig.dev.json
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\bin\Release\netcoreapp3.1\ACSharp.dll
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\bin\Release\netcoreapp3.1\ACSharp.pdb
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.csproj.AssemblyReference.cache
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\obj\Release\netcoreapp3.1\MainWindow.g.cs
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\obj\Release\netcoreapp3.1\App.g.cs
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp_MarkupCompile.cache
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp_MarkupCompile.lref
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\obj\Release\netcoreapp3.1\MainWindow.baml
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.g.resources
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.AssemblyInfoInputs.cache
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.AssemblyInfo.cs
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.csproj.CoreCompileInputs.cache
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.dll
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.pdb
+E:\Portafolio per age\Assests\16y\ACSharp\ACSharp\obj\Release\netcoreapp3.1\ACSharp.genruntimeconfig.cache

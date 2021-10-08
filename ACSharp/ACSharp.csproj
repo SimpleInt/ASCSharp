@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>notebook.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="diskette.png" />
+    <None Remove="folder.png" />
+    <None Remove="printing-text.png" />
+    <None Remove="remove-button.png" />
+    <None Remove="save-as.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Saves\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="diskette.png" />
+    <Resource Include="folder.png" />
+    <Resource Include="printing-text.png" />
+    <Resource Include="remove-button.png" />
+    <Resource Include="save-as.png" />
+  </ItemGroup>
+
+</Project>

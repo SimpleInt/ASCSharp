@@ -1,0 +1,5 @@
+D:\1) User.appData\Desktop\NotepadByBucket\ACSharp.exe
+D:\1) User.appData\Desktop\NotepadByBucket\ACSharp.dll
+D:\1) User.appData\Desktop\NotepadByBucket\ACSharp.deps.json
+D:\1) User.appData\Desktop\NotepadByBucket\ACSharp.runtimeconfig.json
+D:\1) User.appData\Desktop\NotepadByBucket\ACSharp.pdb

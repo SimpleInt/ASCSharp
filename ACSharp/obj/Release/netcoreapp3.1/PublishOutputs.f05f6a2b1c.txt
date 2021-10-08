@@ -1,0 +1,5 @@
+D:\1) User.appData\Desktop\notepad windows21\ACSharp.exe
+D:\1) User.appData\Desktop\notepad windows21\ACSharp.dll
+D:\1) User.appData\Desktop\notepad windows21\ACSharp.deps.json
+D:\1) User.appData\Desktop\notepad windows21\ACSharp.runtimeconfig.json
+D:\1) User.appData\Desktop\notepad windows21\ACSharp.pdb

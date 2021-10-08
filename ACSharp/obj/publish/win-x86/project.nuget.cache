@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KULUwk5cPkChxiBpamizpNmXcqwLCNOlBZelf5HT8Q0k/8pjSIJc/QjqKWnMVuRQ2juwvjvkGKd1LSXANzHS4Q==",
+  "success": true,
+  "projectFilePath": "E:\\Portafolio per age\\Assests\\16y\\ACSharp\\ACSharp\\ACSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OwOr\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\OwOr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\OwOr\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.19\\microsoft.netcore.app.runtime.win-x86.3.1.19.nupkg.sha512",
+    "C:\\Users\\OwOr\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.19\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.19.nupkg.sha512",
+    "C:\\Users\\OwOr\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.19\\microsoft.aspnetcore.app.runtime.win-x86.3.1.19.nupkg.sha512",
+    "C:\\Users\\OwOr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
